@@ -39,4 +39,4 @@ datafusion = { path = "../core", version = "7.0.0" }
 prost = "0.10"
 
 [build-dependencies]
-tonic-build = { version = "0.7" }
+tonic-build = { version = "0.8" }
